@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* Zack Chambers
+ * The following work is done by Zack Chambers and no one else can take credit for it.
  */
 
 /* 
- * File:   Maze.cpp
- * Author: zcham
- *
  * Created on October 28, 2018, 7:04 PM
  */
 
