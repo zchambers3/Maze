@@ -89,7 +89,6 @@ bool HeapPriorityQueue::is_empty() {
 
 }
 
-// You might find these helper functions helpful...
 int HeapPriorityQueue::parent(int index) {
     return (index - 1) / 2;
 }
